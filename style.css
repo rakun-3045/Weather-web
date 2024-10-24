@@ -6,7 +6,7 @@ body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background-image: url("noaa-0ETSZYPjvDo-unsplash.jpg");
+    background-image: noaa-0ETSZYPjvDo-unsplash.jpg;
     background-size: cover;
     font-size: 120%;
 }
